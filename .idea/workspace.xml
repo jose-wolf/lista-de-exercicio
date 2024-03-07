@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee8b15ea-f46a-4e8e-b93d-ec27e5bb933d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListaExerciciosJava/ExerciciosMatematicos/Exercicio1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ListaExerciciosJava/ExerciciosMatematicos/Exercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ListaExerciciosJava/ExerciciosMatematicos/Exercicio2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
     "Application.Main.executor": "Coverage",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
